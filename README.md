@@ -107,6 +107,10 @@ pip install -r requirements.txt
 
 ---
 
+👨‍💻 Author
+
+Developed by **Kavya Patel** ✨
+
 ## 📝 Conclusion
 
 This project demonstrates a practical deep learning application using CNNs for **face mask detection**, which can be extended to:
